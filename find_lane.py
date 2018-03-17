@@ -537,7 +537,6 @@ def lane_detect(image):
 
     return result
 
-#TODO:Start the advanced lane detect
 
 #Camera Calibrate
 undist_sample_image = Camera_Calibrate(row_corners=9, colum_corners=6)
